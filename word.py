@@ -1,5 +1,5 @@
 word_list = [
-        'wares',
+    'wares',
     'soup',
     'mount',
     'extend',
@@ -439,4 +439,3 @@ word_list = [
     'hybrid',
     'buffet',
     'lively']
-]
